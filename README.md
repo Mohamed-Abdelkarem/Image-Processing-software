@@ -5,6 +5,8 @@ a software to apply image processing techniques over image with a simple GUI
 # The main interface:
 ![image](https://user-images.githubusercontent.com/63406747/174343850-a9c72a30-ee4d-4912-94d2-9f46771f1338.png)
 ![image](https://user-images.githubusercontent.com/63406747/174344216-fe0e60b3-bf31-43e4-8a8f-9b4001feea9d.png)
+![Screenshot_1](https://user-images.githubusercontent.com/63406747/174348943-ac0de898-915f-4169-ac15-0d4d4908b1b3.png)
+
 
 # Options in the program:
 1- Convert image to GRAYSCALE
