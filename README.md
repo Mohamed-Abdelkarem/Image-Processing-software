@@ -54,7 +54,7 @@ a software to apply several image processing techniques over image with a simple
 ![sobel](https://user-images.githubusercontent.com/63406747/174357809-dfa62402-ead7-4597-ae4e-d765038f1195.png)
 
 - Apply Dilation --> Sobel edge detection
-![dilation - sobel](https://user-images.githubusercontent.com/63406747/174357943-5b11de99-2d8f-4a04-8dfb-056886dfa143.png)
+![dilation - sobel](https://user-images.githubusercontent.com/63406747/174358408-9cb387d0-afc3-4972-af50-ff3f8c93f002.png)
 
 - Apply Erosion --> Sobel edge detection
-![erision - sobel](https://user-images.githubusercontent.com/63406747/174357953-cc78487e-59e6-4480-9fd6-b2e3f55f2983.png)
+![Erosion - sobel](https://user-images.githubusercontent.com/63406747/174358448-a4748220-6950-4b1b-bd35-7c4f00efe4ad.png)
