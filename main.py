@@ -52,7 +52,7 @@ l= Label(frame, text='* to apply an effect on a new image and see it :- \n  - pr
   select the new effect -> press "apply the effect" ' , fg='black', bg='white', justify='left')
 l.pack()
 
-l2= Label(frame, text='ــــــــ This software is made by eng\ Mohamed Abdelkarem ــــــــ', fg='white', bg='black')
+l2= Label(frame, text='ــــــــــــــــ This software is made by eng\ Mohamed Abdelkarem ــــــــــــــــ', fg='white', bg='black')
 l2.pack()
 
 # ---------------------------------------------------------------------------
