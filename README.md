@@ -28,7 +28,7 @@ a software to apply several image processing techniques over image with a simple
 18- Apply Dilation
 19- Apply Sobel edge detection
 ```
-## Samples of outputs after applying the effects:
+## Samples of some outputs after applying the effects:
 - Convert image to GRAYSCALE
 ![gray](https://user-images.githubusercontent.com/63406747/174355738-986de5b5-44bd-459f-a475-8444f0904f60.png)
 
