@@ -3,7 +3,7 @@ a software to apply several image processing techniques over image with a simple
 
 
 ## Main interface:
-![Screenshot_1](https://user-images.githubusercontent.com/63406747/187649346-12a24d9f-bcb3-4c2f-ad8e-923ebcfa97e3.png)
+![Screenshot_2](https://user-images.githubusercontent.com/63406747/187650785-5c9507ca-f2ef-45d3-bdf3-8457479a1ad2.png)
 
 ## Options in the program:
 ```
