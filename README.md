@@ -8,25 +8,25 @@ a software to apply several image processing techniques over image with a simple
 
 ## Options in the program:
 ```
-1 - Convert image to GRAYSCALE
-2 - Flip image vertically
-3 - Flip image horizontally
-4 - Crop image to half size to middle
-5 - Plot histogram for the GRAYSCALED image
-6 - Increase contrast and brightness
-7 - Decrease contrast and brightness
-8 - Scale image horizontally
-9 - Pixelate image
-10- Translate image horizontally
-11- Rotate image 90 degree
-12- Apply histogram equalization
-13- Apply adaptive threshold
-14- Apply Low pass filter
-15- Apply Gaussian filter
-16- Apply Median filter
-17- Apply Erosion
-18- Apply Dilation
-19- Apply Sobel edge detection
+1- Convert image to GRAYSCALE
+2- Plot histogram for the GRAYSCALED image
+3- Apply histogram equalization
+4- Apply adaptive threshold
+5- Apply Low pass filter
+6- Apply Gaussian filter
+7- Apply Median filter
+8- Apply Erosion
+9- Apply Dilation
+10- Apply Sobel edge detection
+11- Pixelate image
+12- Increase contrast and brightness
+13- Decrease contrast and brightness
+14- Flip image vertically
+15- Flip image horizontally
+16- Crop image to half size
+17- Scale image horizontally
+18- Translate image horizontally
+19- Rotate image 90 degree
 ```
 ## Samples of some outputs after applying the effects:
 - Convert image to GRAYSCALE
