@@ -1,5 +1,5 @@
 # Image-Processing-software
-a software to apply several image processing techniques over image with a simple GUI (using tkinter), with the ability to apply many effects over same image, and save the final image to device. 
+software to help students studying image-processing subjects to be able to apply several image processing techniques over images with a simple GUI (using Tkinter), with the ability to apply many effects over the same image, and save the final image to the device.
 
 
 ## Main interface:
