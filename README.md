@@ -1,12 +1,23 @@
-# Image-Processing-software
-software to help students studying image-processing subjects to be able to apply several image processing techniques over images with a simple GUI (using Tkinter), with the ability to apply many effects over the same image, and save the final image to the device.
+# Image Processing Software 
 
+## Project Overview 
 
-## Main interface:
+This software is designed to assist students studying image processing by providing a simple GUI (using Tkinter) to apply various image processing techniques. Users can apply multiple effects to an image and save the final result to their device. 
+
+## Table of Contents 
+- [Main Interface](#main-interface)
+- [Features](#features)
+- [Sample Outputs](#sample-outputs)
+
+## Main Interface
+
+The main interface of the software provides easy access to all available image processing
+
 ![Screenshot_2](https://user-images.githubusercontent.com/63406747/187650785-5c9507ca-f2ef-45d3-bdf3-8457479a1ad2.png)
 
-## Options in the program:
+## Features
 ```
+The software includes the following features:
 1- Convert image to GRAYSCALE
 2- Plot histogram for the GRAYSCALED image
 3- Apply histogram equalization
@@ -27,7 +38,10 @@ software to help students studying image-processing subjects to be able to apply
 18- Translate image horizontally
 19- Rotate image 90 degree
 ```
-## Samples of some outputs after applying the effects:
+## Sample Outputs
+
+Here are some examples of the outputs after applying various
+
 - Convert image to GRAYSCALE
 ![gray](https://user-images.githubusercontent.com/63406747/174355738-986de5b5-44bd-459f-a475-8444f0904f60.png)
 
